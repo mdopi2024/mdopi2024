@@ -58,14 +58,6 @@
 ###
 
 
-
-
-
-
-
-
-
-
 ###
 
 <img src="https://raw.githubusercontent.com/mdopi2024/mdopi2024/output/snake.svg" alt="Snake animation" />

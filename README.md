@@ -1,61 +1,20 @@
-<div align="center">
-  <img height="" src="https://img.freepik.com/free-vector/gradient-business-linkedin-banner_23-2150091566.jpg?t=st=1736309878~exp=1736313478~hmac=1f254682e97f9353e6460c52f2f5f6bc1c4229b926694aefca93bb9fb4dc8544&w=826"  />
-</div>
+![I am a Full-Stack Web Developer.](https://i.ibb.co/kg29qxKF/github-banner.png)
+### Hi there 👋, my name is Md. Opi Korim
+#### I am a Full-Stack Web Developer.
 
 
-<h2 align="left">Md.Opi Korim</h2>
+Full-Stack Web Developer passionate about building modern, scalable, and high-performance web applications. I enjoy working across both frontend and backend — creating clean UIs with React and Next.js, and building efficient APIs with Node.js, Golang, and Prisma. I love exploring new technologies and improving my craft every day.
 
-###
+Skills: 🛠 Skills: HTML • CSS • JavaScript • React  • Next.js • Node.js • Express • Golang • PostgreSQL • MongoDB • Prisma • Docker • TypeScript
 
-<p align="left">Junior Frontend Developer</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since : 2024<br>📚 I'm currently learning : Next.js<br>🎯 Goals: Become a Full-Stack web developer in 2025<br>🎲 Fun fact: I once spent hours debugging code, only to find I missed a semicolon! 😅</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-</div>
-
-###
-
-<h2 align="left">Social media</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.facebook.com/md.opi.185576" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-</div>
-
-###
+- 🌱 I’m currently learning  System design, backend scalability, and improving my skills in Golang and Docker. 
+- 👯 I’m looking to collaborate on Open source projects, full-stack web apps, and anything creative and challenging. 
+- 🤔 I’m looking for help with  Landing my first developer role and getting started with open source contributions. 
+- 💬 Ask me about  React, Next.js, Node.js, REST APIs, PostgreSQL, or anything full-stack web development. 
+- 📫 How to reach me: opikorim86@gmail.com 
+- 😄 Pronouns:  He/Him 
+- ⚡ Fun fact: I studied Arts in college but fell in love with coding through online courses and became a Full-Stack Developer. 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdopi2024)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/md.opi.185576)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mdopikorimsportfolio.vercel.app/)  
 

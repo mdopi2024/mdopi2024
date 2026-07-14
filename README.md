@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 ![banner](https://i.ibb.co/kg29qxKF/github-banner.png)
 

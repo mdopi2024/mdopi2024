@@ -28,28 +28,17 @@ I'm a Full-Stack Web Developer passionate about building modern, scalable, and h
 
 **Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=7" alt="frontend skills" width="100%"/>
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Go](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![BetterAuth](https://img.shields.io/badge/BetterAuth-000000?style=for-the-badge&logo=auth0&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,go,prisma&perline=7" alt="backend skills" width="100%"/>
 
 **Database & Tools**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git&perline=7" alt="database and tools skills" width="100%"/>
+
+> Note: BetterAuth doesn't have an icon in the icon set used above — happy to add a badge for it separately if you'd like it visible.
 
 ---
 
@@ -57,10 +46,10 @@ I'm a Full-Stack Web Developer passionate about building modern, scalable, and h
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mdopi2024&show_icons=true&theme=default&count_private=true" alt="Opi's GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdopi2024" alt="Opi's GitHub streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mdopi2024&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="Opi's GitHub stats" height="165"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=mdopi2024&theme=dark&hide_border=true" alt="Opi's GitHub streak" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdopi2024&layout=compact" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdopi2024&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165"/>
 
 </div>
 

@@ -28,15 +28,15 @@ I'm a Full-Stack Web Developer passionate about building modern, scalable, and h
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=7" alt="frontend skills" width="100%"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=7" alt="frontend skills"/>
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,go,prisma&perline=7" alt="backend skills" width="100%"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,go,prisma&perline=7" alt="backend skills" />
 
 **Database & Tools**
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git&perline=7" alt="database and tools skills" width="100%"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git&perline=7" alt="database and tools skills"/>
 
 > Note: BetterAuth doesn't have an icon in the icon set used above — happy to add a badge for it separately if you'd like it visible.
 
